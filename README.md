@@ -6,5 +6,6 @@ Que tal
 
 
 |col1|col2|
+|------|------|
 |col1_2|col2_2|
 |col1_3|col2_3|
